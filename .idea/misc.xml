@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://F:/JAVA资料/项目一/day12/03 海关报运平台/海关报运平台/jk_export" />
+    <file type="web" url="file://$PROJECT_DIR$/export_cargo_service" />
+    <file type="web" url="file://$PROJECT_DIR$/export_company_service" />
+    <file type="web" url="file://$PROJECT_DIR$/export_stat_service" />
+    <file type="web" url="file://$PROJECT_DIR$/export_web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/export_web_portal" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../mybatis_generate/pom.xml" />
+        <option value="F:/JAVA资料/项目一/day12/03 海关报运平台/海关报运平台/jk_export/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../export_company_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../jaxrs_server/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

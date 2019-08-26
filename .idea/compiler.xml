@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="export_cargo_interface" />
+        <module name="export_cargo_service" />
+        <module name="export_company_interface (2)" />
+        <module name="export_company_service" />
+        <module name="export_dao" />
+        <module name="export_domain" />
+        <module name="export_service_system" />
+        <module name="export_stat_interface" />
+        <module name="export_stat_service" />
+        <module name="export_web_manager" />
+        <module name="export_web_portal" />
+        <module name="heima_rabbitmq" />
+        <module name="jk_export" />
+        <module name="mybatis_generate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="export_cargo_interface" target="1.8" />
+      <module name="export_cargo_service" target="1.8" />
+      <module name="export_company_interface (2)" target="1.8" />
+      <module name="export_company_service" target="1.8" />
+      <module name="export_dao" target="1.8" />
+      <module name="export_domain" target="1.8" />
+      <module name="export_parent" target="1.8" />
+      <module name="export_service_system" target="1.8" />
+      <module name="export_stat_interface" target="1.8" />
+      <module name="export_stat_service" target="1.8" />
+      <module name="export_web_manager" target="1.8" />
+      <module name="export_web_portal" target="1.8" />
+      <module name="heima_rabbitmq" target="1.8" />
+      <module name="jk_export" target="1.8" />
+      <module name="mybatis_generate" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

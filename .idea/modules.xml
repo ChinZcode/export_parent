@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/export_cargo_interface/export_cargo_interface.iml" filepath="$PROJECT_DIR$/export_cargo_interface/export_cargo_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_cargo_service/export_cargo_service.iml" filepath="$PROJECT_DIR$/export_cargo_service/export_cargo_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_company_interface/export_company_interface (2).iml" filepath="$PROJECT_DIR$/export_company_interface/export_company_interface (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_company_service/export_company_service.iml" filepath="$PROJECT_DIR$/export_company_service/export_company_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_dao/export_dao.iml" filepath="$PROJECT_DIR$/export_dao/export_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_domain/export_domain.iml" filepath="$PROJECT_DIR$/export_domain/export_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_parent.iml" filepath="$PROJECT_DIR$/export_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_service_system/export_service_system.iml" filepath="$PROJECT_DIR$/export_service_system/export_service_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_stat_interface/export_stat_interface.iml" filepath="$PROJECT_DIR$/export_stat_interface/export_stat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_stat_service/export_stat_service.iml" filepath="$PROJECT_DIR$/export_stat_service/export_stat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_web_manager/export_web_manager.iml" filepath="$PROJECT_DIR$/export_web_manager/export_web_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export_web_portal/export_web_portal.iml" filepath="$PROJECT_DIR$/export_web_portal/export_web_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heima_rabbitmq/heima_rabbitmq.iml" filepath="$PROJECT_DIR$/../heima_rabbitmq/heima_rabbitmq.iml" />
+      <module fileurl="file://F:/JAVA资料/项目一/day12/03 海关报运平台/海关报运平台/jk_export/jk_export.iml" filepath="F:/JAVA资料/项目一/day12/03 海关报运平台/海关报运平台/jk_export/jk_export.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis_generate/mybatis_generate.iml" filepath="$PROJECT_DIR$/../mybatis_generate/mybatis_generate.iml" />
+    </modules>
+  </component>
+</project>
